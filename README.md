@@ -1,1 +1,1 @@
-# got-exercise
+# git-exercise
